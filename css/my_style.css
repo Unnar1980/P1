@@ -1,0 +1,57 @@
+﻿/* The body style. Maximum width and color set. I did get the Lato font from Google fonts. */
+body {
+ font-family: 'Lato', sans-serif;
+ font-weight: 300;
+ color: #747704;
+ margin: 3% auto 3% auto;
+ max-width: 900px;
+}
+
+/* The style of the horizontal rule. */
+hr {
+ display: block;
+ border-style: solid;
+ border-bottom-color: #bcbbbb;
+ border-bottom-width: 5px;
+}
+
+/* The styles of the headers. For h1 less font weight selected. */
+h1 {
+ font-weight: 100;
+ margin-right: 10%;
+}
+
+h4 {
+ margin-right: 10%;
+}
+
+h2 {
+ color: #bcbbbb;
+ margin: 4% 10% 1% 1%;
+ font-weight: bold;
+}
+
+/* The styles selected for the content. */
+img {
+ max-width: 100%;
+}
+
+a {
+ min-width: 48px;
+ min-height: 48px;
+}
+
+/* The styles of the classes selected. */
+.container {
+ width: 100%;
+}
+
+.title-logo {
+ margin-top: 5%; 
+}
+
+.col-md-4 {
+ text-align: center;
+ display: inline-block;
+}
+
