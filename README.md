@@ -9,5 +9,4 @@ This project involves building a portfoli site. I selected to use the Bootstrap 
 ##How to run the webpage.
 
 1. Open the index.html file in the project folder in a web browser to run the website.
-2. The results of the testing appears on the bottom of the page.
 
